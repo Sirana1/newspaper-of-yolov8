@@ -1,0 +1,6 @@
+train: "E:/imgtrain/data/paper_data/train.txt"
+val: "E:/imgtrain/data/paper_data/val.txt"
+
+
+names: ['Header', 'Title','Text','Figure','Foot']
+nc: 5
